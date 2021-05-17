@@ -1,0 +1,144 @@
+body
+{
+    border: 1px solid;
+    width: 800px;
+    height: 500px;
+    position: absolute;
+    left: 300px;
+    top: 80px;
+    
+}
+.aaa
+{
+    background-color: #4bcaff;
+    width: 800px;
+    height: 500px;
+
+}
+#menu
+{
+    position: absolute;
+    left: 250px;
+    top: 50px;
+}
+#border
+{
+    width: 25px;
+    height: 4px;
+    background-color: black;
+    margin: 5px 0;
+    position: absolute;
+    top: 43px;
+    left: 310px;
+  }
+  #border1
+{
+    width: 25px;
+    height: 4px;
+    background-color: black;
+    margin: 5px 0;
+    position: absolute;
+    top: 53px;
+    left: 310px;
+  }
+  #border2
+{
+    width: 25px;
+    height: 4px;
+    background-color: black;
+    margin: 5px 0;
+    position: absolute;
+    top: 63px;
+    left: 310px;
+  }
+  #graf
+  {
+      position: absolute;
+      top: 150px;
+      left: 70px;
+      color: red;
+      font-size: 2.5em;
+  }
+  #ori
+  {
+      position: absolute;
+      top: 200px;
+      left: 550px;
+      font-size: 2.5em;
+      color: white;
+      background-color: black;
+      padding: 5px 10px;
+  }
+  .button1
+  {
+      position: absolute;
+      top: 350px;
+      left: 80px;
+      background-color:black;
+      color: white;
+      border: none;
+      border-radius: 5px;
+  }
+  .button2
+  {
+      position: absolute;
+      top: 350px;
+      left: 140px;
+      background-color: gray;
+      color: white;
+      border: none;
+      border-radius: 5px;
+  }
+  .button3
+  {
+      position: absolute;
+      top: 350px;
+      left: 250px;
+      background-color:gray;
+      color: white;
+      border: none;
+      border-radius: 5px;
+  }
+  .button4
+  {
+      position: absolute;
+      top: 350px;
+      left: 338px;
+      background-color: gray;
+      color: white;
+      border: none;
+      border-radius: 5px;
+  }
+  .button5
+  {
+      position: absolute;
+      top: 350px;
+      left: 450px;
+      background-color: gray;
+      color: white;
+      border: none;
+      border-radius: 5px;
+  }
+  #bay
+  {
+      position: absolute;
+      left: 50px;
+  }
+  #land
+  {
+      position: absolute;
+      top: 390px;
+      left: 80px;
+  }
+  #nike
+  {
+      position: absolute;
+      top: 390px;
+      left: 300px;
+  }
+  #cool
+  {
+      position: absolute;
+      top: 390px;
+      left: 520px;
+  }
